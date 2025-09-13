@@ -813,7 +813,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "ripress-wynd"
+name = "ripress-wynd-minimal-demo"
 version = "0.1.0"
 dependencies = [
  "ripress",
