@@ -5,5 +5,5 @@ edition = "2024"
 
 [dependencies]
 ripress = { version = "*", features = ["with-wynd"] }
-tokio = { version = "1.47.1", features = ["macros", "rt-multi-thread"] }
+tokio = { version = "1", features = ["macros", "rt-multi-thread"] }
 wynd = { version = "*", features = ["with-ripress"] }
